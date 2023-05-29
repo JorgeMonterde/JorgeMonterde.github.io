@@ -1,5 +1,4 @@
 # Quiz_2.0
-JorgeMonterde.github.io
 
 ## QUIZTORY ##
 
